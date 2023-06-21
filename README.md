@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is David Maldonado Garibay. I am a Software Development Engineer in Test II living in Raleigh, NC.
+My name is David Garibay. I am a Software Development Engineer in Test II living in Raleigh, NC.
 
 I like solving real-world problems using code. I like using tools based on the problem at hand, even if it means learning something new.
 
